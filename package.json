@@ -1,0 +1,11 @@
+{
+  "name": "osm-editor-layer-index-qgis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "index.js",
+  "author": "Andrew Harvey <andrew@alantgeo.com.au>",
+  "dependencies": {
+    "xml": "^1.0.1"
+  }
+}
