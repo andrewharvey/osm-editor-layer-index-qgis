@@ -6,6 +6,7 @@
   "bin": "index.js",
   "author": "Andrew Harvey <andrew@alantgeo.com.au>",
   "dependencies": {
+    "minimist": "^1.2.0",
     "xml": "^1.0.1"
   }
 }
