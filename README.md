@@ -2,6 +2,10 @@
 
 Converts the [OSM Editor Layer Index](https://github.com/osmlab/editor-layer-index/) into a QGIS XYZ Tiles Connections.
 
+## Run Once
+
+    wget -O - https://osmlab.github.io/editor-layer-index/imagery.geojson | npx osm-editor-layer-index-qgis > imagery.qgis.xml
+
 ## Install and use globally
 
     npm install -g osm-editor-layer-index-qgis
